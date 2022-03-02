@@ -226,7 +226,7 @@ public class OperationRegistry implements Externalizable
 
    /** The user defined registry files that are automatically loaded */
    static String USR_REGISTRY_FILE = "META-INF/org.eclipse.imagen.registryFile.jai";
-   // CHANGED BY BS original value: "META-INF/registryFile.jai"
+   // [CHANGED BY BS] original value: "META-INF/registryFile.jai"
 
    /**
     * A <code>Hashtable</code> of <code>DescritptorCache</code>s for each registry mode.
